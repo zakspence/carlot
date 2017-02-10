@@ -1,0 +1,35 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    }, {
+      "make": "Kia",
+      "model": "Sportage",
+      "year": "2000",
+      "price": "1",
+      "description": "No title, runs terrible, name yer price."
+    }, {
+      "make": "Volkswagon",
+      "model": "Beetle",
+      "year": "1998",
+      "price": "4599",
+      "description": "313,000 miles on this baby. Diesel. German. Fick ja."
+    }, {
+      "make": "Ford",
+      "model": "Conversion Van",
+      "year": "1988",
+      "price": "800",
+      "description": "This thing's been run from Alaska to Florida in an speed-induced 39 hour beeline. If you want the drugs we found under the rear reclining seat, well, that costs extra."
+    }, {
+      "make": "Tesla",
+      "model": "Model S",
+      "year": "2016",
+      "price": "156450",
+      "description": "Not for sale. The owner of the lot just wants you to know what he drives."
+    }
+  ]
+}
